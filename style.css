@@ -1,0 +1,151 @@
+        /****** Body Section ******/
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Rubik', sans-serif;
+        }      
+        
+        
+              
+                /****** Header Section ******/
+        .header-section {
+            background-color: #F0FFF0;
+            padding: 30px 0;
+        }        
+        .header-section .navbar-brand img {
+            width: 180px;
+        }
+        .header-content {
+            padding-top: 60px;
+        }
+        .header-content img {
+            width: 100%;
+        }
+        h6 {
+            color: #FB7242;
+            font-weight: 400;
+            padding-bottom: 20px;
+        }
+        h1 {
+            font-size: 46px;
+            font-weight: 700;
+        }
+        .heading-color {
+            color: #21B573;
+        }
+        .header-section p {
+            color: #9DA39D;
+            padding: 25px 0;
+            line-height: 2em;
+        }
+        .button {
+            background-color: #21B573;
+            padding: 10px 20px;
+            color: white;
+            border: 0;
+            border-radius: 30px;
+        }
+        .button a:hover {
+            text-decoration: none;
+        }
+        
+        .header-content .button {
+            margin-top: 20px;
+        }
+        
+        
+        
+                 /****** Portfolio Section ******/
+        .portfolio-section {
+            padding: 40px 0;
+            overflow: hidden;
+        }  
+        .portfolio-section img {
+            width: 50px;
+            height: 60px;
+           
+        }
+        .column-4 {
+            width: 22%;
+            margin: 1%;
+            float: left;
+            text-align: center;
+            background-color: #F8FFFB;
+            overflow: hidden;
+            padding: 50px 20px;
+            border-radius: 8px;
+        }
+        h4 {
+            font-weight: 500;
+            color: #413960;
+            margin-top: 25px;
+        }
+        p {
+            color: #A8ABAA;
+        }
+        
+        
+                  
+        
+                    /****** Course Section ******/
+        .course-section {
+            padding: 30px 0;
+            overflow: hidden;
+        }    
+        h2 {
+            text-align: center;
+            color: #413960;
+            margin-bottom: 30px;
+        
+        }  
+        .column-3 {
+            width: 30%;
+            margin: 1.5%;
+            float: left;
+            padding: 20px 17px;
+            border-radius: 10px;
+        
+        }      
+        .column-3 img {
+            width: 100%;
+        }
+        .date img {
+            width: 22px;
+            height: 22px;
+        }
+        
+                     
+        
+                    /****** Testimonial Section ******/
+        .testimonial-section {
+            padding: 30px 0;
+        }           
+        .testimonial-section img {
+            width: 100%;
+        }            
+        
+        
+                    /****** Footer Section ******/
+        .footer-section {
+            background-color: #282531;
+            padding: 30px 0;
+        }
+        .footer-nav ul {
+            list-style: none;
+            color: #E4E4E5;
+        }
+        .footer-nav ul li a {
+            text-decoration: none;
+            color: #E4E4E5;
+            font-size: 15px;
+        }
+        .footer-section p {
+            color: #E4E4E5;
+            font-size: 15px;
+        }
+        .footer {
+            font-size: 15px;
+            text-align: center;
+            margin-top: 40px;
+        }
+        
